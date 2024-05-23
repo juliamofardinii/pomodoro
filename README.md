@@ -7,6 +7,6 @@ Este projeto tem como intuito ser uma técnica e facilitador na hora dos estudos
 * Javascript
 
 ## Acesso ao Projeto
-[Clique aqui para acessar o projeto final em funcionamento.]([https://portfolio-five-gray-53.vercel.app/](https://fokus-pomodoro-sigma.vercel.app/))
+[Clique aqui para acessar o projeto final em funcionamento.](https://fokus-pomodoro-sigma.vercel.app/)
 
  
