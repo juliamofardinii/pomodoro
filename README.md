@@ -1,7 +1,7 @@
 # Projeto Fokus - Pomodoro
 Este projeto tem como intuito ser uma técnica e facilitador na hora dos estudos. Nele o usuário pode acionar o tempo, descanso curto e longo além de também dar a possibilidade de ter uma lista de tarefas. 
 
-## Técnicas e teclogias utilizadas
+## Técnicas e tecnologias utilizadas
 * HTML: 
 * CSS
 * Javascript
